@@ -22,7 +22,6 @@ My work ranges from building ML models and computer vision pipelines to developi
 * Computer Vision
 * NLP
 * Time Series Forecasting
-* Transformers
 * Generative AI
 * Model Evaluation
 * Feature Engineering
@@ -60,6 +59,18 @@ My work ranges from building ML models and computer vision pipelines to developi
 ---
 
 # 🧠 Featured Work
+## 🧑‍🦽 Revoice — EOG-Based Communication System
+
+**Assistive Technology • EOG • Machine Learning • Full-Stack Development**
+
+🚧 **Currently under development**
+
+Working on an EOG-based communication system aimed at helping **locked-in patients** interact with digital interfaces using intentional eye movements.
+
+The project explores the use of **EOG signal processing and machine learning** to translate eye movements into commands for communication and basic interaction.
+
+> Building technology with a focus on **real-world accessibility and patient independence**.
+
 
 ## 🌱 AI-Powered Seed Quality & Germination Prediction
 
